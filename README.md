@@ -45,5 +45,6 @@ This assignment was used for a final project for a class involving Advanced Data
 
 Future Possibilities
 ====================
+- Makefile
 - Clean up code
 - Rewrite in C#
