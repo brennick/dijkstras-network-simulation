@@ -1,4 +1,4 @@
-OBJS = main.cpp Graph.cpp Message.cpp Network.cpp Node.cpp Packet.cpp Path.cpp
+OBJS = ./files/main.cpp ./files/Graph.cpp ./files/Message.cpp ./files/Network.cpp ./files/Node.cpp ./files/Packet.cpp ./files/Path.cpp
 
 ALL: NetworkSim
 
