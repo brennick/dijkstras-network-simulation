@@ -3,17 +3,17 @@ Dijkstras-Network-Simulation
 
 A simulation involving Dijkstra's alogorithm for path-finding and sending packets or messages over a network.
 
-How to Build
-============
+Building
+========
 
-To build this project, you have two options. Clone the repo and run `make` inside the directory.
+To build this project, clone the repo and run `make` inside the directory.
 
-How to Run
-==========
+Running
+=======
 
 To run, first build the simulation and then run `./NetworkSim`. Use `ExampleGraph.txt` and vertex 1 as the start vertex and 3 as the end vertex, supplying your own message. The program will send the message as fast as possible using Dijkstra's algorithm and record what tick interval each packet (character) arrives at the end vertex.
 
-Building Your Own Graph
+Creating Your Own Graph
 =======================
 
 The graph format first starts out with listing each vertex's id on a single line. For instance, to initialize vertexes 1, 2, 3 and 5, you would start with:
