@@ -6,10 +6,7 @@ A simulation involving Dijkstra's alogorithm for path-finding and sending packet
 How to Build
 ============
 
-To build this project, clone the repo and change directories in your terminal to the cloned repo. To build, run the command:
-```
-g++ main.cpp Graph.cpp Message.cpp Network.cpp Node.cpp Packet.cpp Path.cpp -o NetworkSim
-```
+To build this project, you have two options. Clone the repo and run `make` inside the directory.
 
 How to Run
 ==========
