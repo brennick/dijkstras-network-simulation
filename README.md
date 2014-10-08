@@ -1,7 +1,7 @@
 Dijkstras-Network-Simulation
 =============================
 
-A simulation involving Dijkstra's alogorithm for path-finding and sending packets or messages over a network.
+A C++ simulation involving Dijkstra's alogorithm for path-finding and sending packets or messages over a network.
 
 Building
 ========
