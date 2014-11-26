@@ -38,7 +38,7 @@ Note: Edges are one-way direction, so to make a bidirection edge of weight 4 bet
 Information About the Project
 =============================
 
-This assignment was used for a final project for a class involving Advanced Data Structures. It has been posted with permission from the professor.
+This assignment was used for a final project for a class involving Advanced Data Structures in Spring 2014. It has been posted with permission from the professor.
 
 Future Possibilities
 ====================
